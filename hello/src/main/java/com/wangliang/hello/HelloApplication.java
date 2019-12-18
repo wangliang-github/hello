@@ -17,6 +17,7 @@ public class HelloApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(HelloApplication.class, args);
 		System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~项目[app]已经启动");
+		System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~项目[app]已经启动");
 	}
 
 }
